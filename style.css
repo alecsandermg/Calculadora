@@ -1,0 +1,27 @@
+#Calculadora
+{
+    height: 300px;
+    width: 280px;
+    border: black solid;
+}
+#tela
+{
+    height: 100px;
+    width: 250px;
+    border: grey solid;
+    margin: 10px 10px;
+}
+.botoes
+{
+    padding-left: 25px;
+}
+.Botao, .Botao_n
+{
+    height: 30px;
+    width: 50px;
+    margin: 2px;
+}
+p
+{
+    text-align: right;
+}
