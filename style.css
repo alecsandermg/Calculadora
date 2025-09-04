@@ -1,8 +1,12 @@
 #Calculadora
 {
+    position: absolute;
     height: 300px;
     width: 280px;
     border: black solid;
+    top: 50%;
+    left: 50%;
+    transform: translate(-60%, -60%);
 }
 #tela
 {
@@ -24,4 +28,12 @@
 p
 {
     text-align: right;
+}
+
+#row1{
+    padding: 5px;
+    margin: 5px;
+    text-align: right;
+    font-family: 'Arial';
+    font-weight: bolder;
 }
